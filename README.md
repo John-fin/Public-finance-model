@@ -3,7 +3,8 @@
 ## 🔍 Project Overview
 This project is a data-driven Excel model developed to analyze and interpret public financial performance in a selected region. The model uses structured datasets to examine revenue, expenditure, and related fiscal indicators.
 
-![alt](image_url)
+![Public Finance Dashboard](images/public%20finance%20dashboard.png)
+
 
 ## 🎯 Objectives
 - To evaluate the financial health of local government entities
