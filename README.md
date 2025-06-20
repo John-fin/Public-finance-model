@@ -1,5 +1,5 @@
 # 📊 Excel Data Analysis Project – Public Finance Model
----
+
 ## 🔍 Project Overview
 This project is a data-driven Excel model developed to analyze and interpret public financial performance in a selected region. The model uses structured datasets to examine revenue, expenditure, and related fiscal indicators.
 
@@ -29,7 +29,7 @@ This project is a data-driven Excel model developed to analyze and interpret pub
 | Net Expenditure     | KES 19,100,000 |
 | Fiscal Deficit      | KES 6,300,000  |
 
-![Dashboard](model_screenshot.png)
+
 
 ## 📦 How to Use
 1. Download the `kra_financial_model.xlsx` file
@@ -42,8 +42,7 @@ This project is a data-driven Excel model developed to analyze and interpret pub
 - All values are illustrative and may not reflect actual records
 
 ## 👥 Contributors
-- John Kamau (Lead Analyst)
+- John Kamau (data Analyst)
 
-## 📜 License
-This project is open for educational and non-commercial use under the MIT License.
+
 
